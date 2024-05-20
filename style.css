@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+h1 {
+    color: #333;
+    font-weight: lighter;
+}
+button {
+    padding: 3px;
+}
+#resetBtn{
+    background-color: red;
+    padding: 15px;
+    font-weight: bolder;
+    border-radius: 10px;
+}
